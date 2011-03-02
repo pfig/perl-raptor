@@ -1,7 +1,7 @@
 
 =pod
 
-Raptor Perl 5 Logo.
+Perl 5 Raptor Logo.
 
 =head2 Getting It
 
