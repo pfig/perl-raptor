@@ -10,6 +10,13 @@ Clone the repository.
   git clone git://github.com/kraih/perl-raptor.git
   cd perl-raptor
 
+=head2 Attribution
+
+In conformance with the CC-SA License you are allowed to do pretty much
+whatever you want with these images, as long as all resulting works contain a
+visible copyright notice mentioning the original artist and/or a link to
+L<http://kraih.com>.
+
 =head2 Copyright And License
 
 Copyright (C) 2011, Sebastian Riedel.
